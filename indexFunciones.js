@@ -7,3 +7,4 @@ function primeraFuncion()
     console.log(a);
 }
 primeraFuncion();
+
